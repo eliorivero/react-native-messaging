@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "72190986964",
+    "firebase_url": "https://notif-44da9.firebaseio.com",
+    "project_id": "notif-44da9",
+    "storage_bucket": "notif-44da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72190986964:android:8e11f0b5b97c06622dc941",
+        "android_client_info": {
+          "package_name": "com.rnone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72190986964-kelod97bahgj85pt91m43vtt30774vho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMSK8Xcm6MGdCtf0upf526ktZUt7-RNfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72190986964-kelod97bahgj85pt91m43vtt30774vho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
